@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Flexfit</string>
+    <string name="app_db_name">flexfit</string>
+    <string name="add_diary">Add Diary</string>
+    <string name="type">Type:</string>
+    <string name="jogging">Jogging</string>
+    <string name="date">Date:</string>
+    <string name="_06_06_2023">06/06/2023</string>
+    <string name="duration">Duration:</string>
+    <string name="_01_30">01:30</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="logo">LOGO</string>
+    <string name="flexfit">FLEXFIT</string>
+    <string name="login_your_account">Login Your Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="flexfit_diary">FLEXFIT Diary</string>
+    <string name="log_out">Log out</string>
+    <string name="your_flexfit_account">Your FLEXFIT Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="flex">FLEX</string>
+    <string name="flexfit_record">FLEXFIT Record</string>
+    <string name="add_record">Add Record</string>
+    <string name="distance">Distance</string>
+    <string name="start">Start</string>
+</resources>
